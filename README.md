@@ -31,6 +31,7 @@ def circulate():
    result=l[n:]+l[:n]
    print("After circulating the values are:",result)
 ## Output:
+![github logo](circulate.png)
 
 
 ## Result:
